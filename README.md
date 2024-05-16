@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jape03
+- 👋 Hi!
 
 <!---
 jape03/jape03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
